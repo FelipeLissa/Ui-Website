@@ -6,7 +6,7 @@ export function Header() {
   return (
     <Container>
       <Link href={""}>
-        <img src={"./logo22.png"} className="header-logo"></img>
+        <img src={"/Logo22.png"} className="header-logo"></img>
       </Link>
       <Link href={""}>
         <a>Destinations</a>
