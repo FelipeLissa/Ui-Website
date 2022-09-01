@@ -1,13 +1,13 @@
 import styled from 'styled-components';
 
 export const Container = styled.div`
-   height: 50vw;
+   height: 45vw;
    width: 100vw;
    margin-top: 10vw;
 
    img {
       width: 100vw;
-      height: 46.8vw;
+      height: 30vw;
    }
    .category {
       display: flex;

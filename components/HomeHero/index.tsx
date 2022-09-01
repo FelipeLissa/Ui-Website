@@ -3,6 +3,7 @@ import { Container } from "./styles";
 export function HomeHero() {
   return (
     <Container>
+      
       <div className="main-div">
         <div className="text-div">
           <a className="title">Best Destinations around the world</a>

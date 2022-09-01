@@ -12,6 +12,7 @@ import { Testimonials } from "../components/Testimonials";
 import { CompaniesLogos } from "../components/CompaniesLogos";
 import { Subscribe } from "../components/Subscribe";
 import { Footer } from "../components/Footer";
+import { ProjectDescription } from "../components/ProjectDescription";
 
 export default function Home() {
   useEffect(() => {
@@ -23,10 +24,12 @@ export default function Home() {
       <Head>
         <title>Loja de Eletro</title>
       </Head>
-
+      <div>
+       <ProjectDescription></ProjectDescription>
+        </div>
       <main>
-        <img src="/Decore.png" />
         <div>
+        <img src="/Decore.png" />
           <Header></Header>
           <HomeHero></HomeHero>
           <Category></Category>

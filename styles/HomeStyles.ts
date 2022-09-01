@@ -12,8 +12,7 @@ font: 400 1rem 'Montserrat', sans-serif;
 main {
 display: flex;
 flex-direction: column;
-height: 1080px;
-
+   
    img{
     position:absolute;top:0;left:0;z-index:1;
     width: 100vw;

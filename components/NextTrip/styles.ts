@@ -3,8 +3,7 @@ import styled from 'styled-components';
 export const Container = styled.div`
     display: flex;
     justify-content: center;
-    align-content: center;
-    height: 60vw;
+    height: 45vw;
     .content {
         display: flex;
         margin-top: 20vw;
