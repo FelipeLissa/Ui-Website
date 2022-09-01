@@ -5,7 +5,6 @@ export function ProductIndex() {
   return (
     <ProductIndexContainer>
       <Product
-        children={undefined}
         title={
           "Kit Console Sony Playstation 5 + Controle Sem fio PS5 DualSense"
         }
@@ -15,7 +14,6 @@ export function ProductIndex() {
         img={"/ps5.jpg"}
       ></Product>
       <Product
-        children={undefined}
         title={
           "Kit Console Sony Playstation 5 + Controle Sem fio PS5 DualSense"
         }
@@ -25,7 +23,6 @@ export function ProductIndex() {
         img={"/ps5.jpg"}
       ></Product>
       <Product
-        children={undefined}
         title={
           "Kit Console Sony Playstation 5 + Controle Sem fio PS5 DualSense"
         }
@@ -35,7 +32,6 @@ export function ProductIndex() {
         img={"/ps5.jpg"}
       ></Product>
       <Product
-        children={undefined}
         title={
           "Kit Console Sony Playstation 5 + Controle Sem fio PS5 DualSense"
         }
@@ -45,7 +41,6 @@ export function ProductIndex() {
         img={"/ps5.jpg"}
       ></Product>
       <Product
-        children={undefined}
         title={
           "Kit Console Sony Playstation 5 + Controle Sem fio PS5 DualSense"
         }
@@ -55,7 +50,6 @@ export function ProductIndex() {
         img={"/ps5.jpg"}
       ></Product>
       <Product
-        children={undefined}
         title={
           "Kit Console Sony Playstation 5 + Controle Sem fio PS5 DualSense"
         }
@@ -65,7 +59,6 @@ export function ProductIndex() {
         img={"/ps5.jpg"}
       ></Product>
       <Product
-        children={undefined}
         title={
           "Kit Console Sony Playstation 5 + Controle Sem fio PS5 DualSense"
         }
@@ -75,7 +68,6 @@ export function ProductIndex() {
         img={"/ps5.jpg"}
       ></Product>
       <Product
-        children={undefined}
         title={
           "Kit Console Sony Playstation 5 + Controle Sem fio PS5 DualSense"
         }
@@ -85,7 +77,6 @@ export function ProductIndex() {
         img={"/ps5.jpg"}
       ></Product>
       <Product
-        children={undefined}
         title={
           "Kit Console Sony Playstation 5 + Controle Sem fio PS5 DualSense"
         }
@@ -95,7 +86,6 @@ export function ProductIndex() {
         img={"/ps5.jpg"}
       ></Product>
       <Product
-        children={undefined}
         title={
           "Kit Console Sony Playstation 5 + Controle Sem fio PS5 DualSense"
         }
@@ -105,7 +95,6 @@ export function ProductIndex() {
         img={"/ps5.jpg"}
       ></Product>
       <Product
-        children={undefined}
         title={
           "Kit Console Sony Playstation 5 + Controle Sem fio PS5 DualSense"
         }
@@ -115,7 +104,6 @@ export function ProductIndex() {
         img={"/ps5.jpg"}
       ></Product>
       <Product
-        children={undefined}
         title={
           "Kit Console Sony Playstation 5 + Controle Sem fio PS5 DualSense"
         }
@@ -125,7 +113,6 @@ export function ProductIndex() {
         img={"/ps5.jpg"}
       ></Product>
       <Product
-        children={undefined}
         title={
           "Kit Console Sony Playstation 5 + Controle Sem fio PS5 DualSense"
         }
@@ -135,7 +122,6 @@ export function ProductIndex() {
         img={"/ps5.jpg"}
       ></Product>
       <Product
-        children={undefined}
         title={
           "Kit Console Sony Playstation 5 + Controle Sem fio PS5 DualSense"
         }
@@ -145,7 +131,6 @@ export function ProductIndex() {
         img={"/ps5.jpg"}
       ></Product>
       <Product
-        children={undefined}
         title={
           "Kit Console Sony Playstation 5 + Controle Sem fio PS5 DualSense"
         }
@@ -155,7 +140,6 @@ export function ProductIndex() {
         img={"/ps5.jpg"}
       ></Product>
       <Product
-        children={undefined}
         title={
           "Kit Console Sony Playstation 5 + Controle Sem fio PS5 DualSense"
         }
