@@ -3,7 +3,7 @@ import { Container } from "./styles";
 export function Category() {
   return (
     <Container>
-      <img src="/Category.png" />
+      <img src="/category.png" />
 
       <div className="category">
         <h1 className="title">Category</h1>

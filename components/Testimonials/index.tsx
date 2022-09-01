@@ -11,7 +11,7 @@ export function Testimonials() {
         <div className="right-content">
           <div className="right-card-content">
             <div className="right-card">
-              <img className="avatar-img" src="image.png"></img>
+              <img className="avatar-img" src="/Image.png"></img>
               <a className="right-card-description">
                 “On the Windows talking painted pasture yet its express parties
                 use. Sure last upon he same as knew next. Of believed or
