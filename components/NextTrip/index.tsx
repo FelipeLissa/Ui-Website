@@ -2,10 +2,9 @@ import { BsHouse, BsMap } from 'react-icons/bs';
 import { FaTelegramPlane } from 'react-icons/fa';
 import { Container } from './styles';
 import { Swiper, SwiperSlide } from 'swiper/react';
-import { Autoplay, Pagination, FreeMode } from 'swiper';
+import { Autoplay, Pagination} from 'swiper';
 import 'swiper/css';
 import 'swiper/css/autoplay';
-import 'swiper/css/free-mode';
 import 'swiper/css/pagination';
 import { useSwiper } from 'swiper/react';
 

@@ -22,7 +22,7 @@ export default function Home() {
   return (
     <HomeContainer>
       <Head>
-        <title>Loja de Eletro</title>
+        <title>Website Portfólio -Felipe Lissa</title>
       </Head>
       <div>
        <ProjectDescription></ProjectDescription>

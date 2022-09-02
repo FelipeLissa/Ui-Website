@@ -45,13 +45,14 @@ export default class MyDocument extends Document {
       return (
          <Html lang="pt-br">
             <Head>
+        <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
+            <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+        <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" />
                {CssBaseline.flush()}
                <link
                   rel="stylesheet"
                   href="https://cdn.jsdelivr.net/npm/swiper@8/swiper-bundle.min.css"
                />
-
-               <script src="https://cdn.jsdelivr.net/npm/swiper@8/swiper-bundle.min.js"></script>
                <link
                   rel="stylesheet"
                   href="https://use.typekit.net/fhm0aky.css"
