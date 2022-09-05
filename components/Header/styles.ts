@@ -15,7 +15,7 @@ export const Container = styled.div`
       transition: all 0.2s ease-in-out;
    } a:hover {
       transform: scale(1.1);
-      text-decoration: underline;
+      font-weight: 700;
       color: black;
    }
 

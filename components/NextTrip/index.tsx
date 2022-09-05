@@ -4,12 +4,10 @@ import { Container } from './styles';
 import { Swiper, SwiperSlide } from 'swiper/react';
 import { Autoplay, Pagination} from 'swiper';
 import 'swiper/css';
-import 'swiper/css/autoplay';
-import 'swiper/css/pagination';
-import { useSwiper } from 'swiper/react';
+import 'swiper/css/bundle';
 
 export function NextTrip() {
-   const swiper = useSwiper();
+
    return (
       <Container>
          <img src="/fundo4.png" />
@@ -74,7 +72,7 @@ export function NextTrip() {
                autoplay={true}
                data-swiper-autoplay="2000"
             >
-               <SwiperSlide  className="swiper-slide">
+               <SwiperSlide className="swiper-slide">
                   <div className="right-card-img">
                      <img
                         className="right-card-img"
@@ -91,7 +89,6 @@ export function NextTrip() {
                      <BsHouse></BsHouse>8 People
                   </div>
                </SwiperSlide>
-               
                <SwiperSlide className="swiper-slide">
                   <div className="right-card-img">
                      <img
